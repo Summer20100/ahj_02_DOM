@@ -1,6 +1,7 @@
 dist
 doc
 .git-credentials
+build
 
 # Logs
 logs
