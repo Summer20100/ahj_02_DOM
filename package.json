@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "coverage": "jest --coverage",
     "serve": "http-server src",
-    "fix": "eslint --fix --ext .js,.vue src",
+    "fix": "eslint . --fix --ext .js,.vue src",
     "test": "jest --coverage",
     "check": "jest"
   },
